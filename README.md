@@ -5,4 +5,4 @@
 ### React
 
 [Github Card App](https://rasmar.github.io/github_card_app/)
-[Github Card App](https://rasmar.github.io/star-match/)
+[Star Match](https://rasmar.github.io/star-match/)
